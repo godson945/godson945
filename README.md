@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @godson
 - 👀 I’m interested in Software developmet , Cyber security
-- 🌱 I’m currently working as Cyber Security engineering
+- 🌱 I’m currently working as Cyber Security Engineering
 - 💞️ I’m looking to collaborate on Development team
 - 📫 How to reach me 
 
